@@ -32,4 +32,5 @@ Como se puede ver en este Dashboard se ve el total de Ventas desde el inicio de 
 
 ![image](https://github.com/user-attachments/assets/01efcd12-1b14-4d4b-a280-285db92ef361)
 
+[Caso Practico Power BI.zip](https://github.com/user-attachments/files/16668524/Caso.Practico.Power.BI.zip)
 
